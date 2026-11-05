@@ -1,6 +1,6 @@
 # 日本語：導入とフィードバック
 
-1. [Releases](https://github.com/WangJ226/Marc-MCP-Assistant/releases) の配布状況を確認します。一覧が空の場合は 1309224565@qq.com に Windows・Marc・AI クライアントのバージョンと希望する小さな作業を連絡してください。
+1. [Releases](https://github.com/WangJ226/MSC-Marc-Control-MCP/releases) の配布状況を確認します。一覧が空の場合は 1309224565@qq.com に Windows・Marc・AI クライアントのバージョンと希望する小さな作業を連絡してください。
 2. 提供された EXE をインストールし、日本語を選択します。MCP 用 Python は同梱されています。有効な Marc と AI アカウントは事前に用意してください。
 3. 提供者から届いたコードを対応する認証・引換画面で入力します。体験は手動承認で、期間は発行された認証内容に従います。
 4. Marc を自動検索して環境を確認し、AI クライアントを接続・再読み込みして信頼を承認します。

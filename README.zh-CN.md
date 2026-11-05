@@ -1,6 +1,8 @@
-![Marc Control MCP](assets/banner.svg)
+![MSC Marc Control MCP](assets/banner.svg)
 
-# Marc Control MCP 1.3.2
+# MSC Marc Control MCP 1.3.2
+
+**下载状态：1.3.2 安装包暂未公开，完善并验证后再发布。**
 
 ### 从模型检查到结果提取，让 AI 帮你推进每一步。
 
@@ -10,7 +12,7 @@
 
 Windows · 中文 / English / 日本語 · WorkBuddy / Codex / Claude Desktop
 
-[下载与版本](https://github.com/WangJ226/Marc-MCP-Assistant/releases) · [首次使用](docs/trial-install.md) · [常见问题](docs/faq.md) · [反馈问题](https://github.com/WangJ226/Marc-MCP-Assistant/issues)
+[下载与版本](https://github.com/WangJ226/MSC-Marc-Control-MCP/releases) · [首次使用](docs/trial-install.md) · [常见问题](docs/faq.md) · [反馈问题](https://github.com/WangJ226/MSC-Marc-Control-MCP/issues)
 
 ## 让重复工作交给工具，把精力留给工程判断
 
@@ -23,7 +25,7 @@ Windows · 中文 / English / 日本語 · WorkBuddy / Codex / Claude Desktop
 
 ## 从一次具体的分析任务开始
 
-模型已经有了，输入文件却需要反复核对；求解中断后，要在日志里寻找线索；结果算完，还要逐个提取节点历史和曲线。Marc Control MCP 面向这些日常工作，让你在自己的 AI 客户端中提出任务，通过 MCP 调用本机工具，并查看实际返回的文件和检查记录。
+模型已经有了，输入文件却需要反复核对；求解中断后，要在日志里寻找线索；结果算完，还要逐个提取节点历史和曲线。MSC Marc Control MCP 面向这些日常工作，让你在自己的 AI 客户端中提出任务，通过 MCP 调用本机工具，并查看实际返回的文件和检查记录。
 
 你负责工程目标、模型假设与操作批准；AI 助手组织对话和工具调用；Marc/Mentat 执行相应模型操作与求解。适合已有 Marc 使用基础的土木、机械等领域研究人员、学生和工程用户。
 
@@ -63,7 +65,7 @@ Windows · 中文 / English / 日本語 · WorkBuddy / Codex / Claude Desktop
 
 **安装 → 激活 → 查找 Marc → 连接 AI → 环境检查 → 第一个小任务**
 
-1. 查看 [Releases](https://github.com/WangJ226/Marc-MCP-Assistant/releases) 的可用安装包；当前公开列表为空时，通过 [联系入口](docs/contact.md) 获取体验安排。
+1. 查看 [Releases](https://github.com/WangJ226/MSC-Marc-Control-MCP/releases) 的可用安装包；当前公开列表为空时，通过 [联系入口](docs/contact.md) 获取体验安排。
 2. 安装 EXE，按提供方给出的激活码或兑换码完成在线授权。使用期限以实际授权为准，体验申请由人工批准。
 3. 自动查找 Marc，确认安装版本，执行环境检查。
 4. 选择 WorkBuddy、Codex 或 Claude Desktop，完成配置后重载客户端并确认信任。
@@ -88,6 +90,6 @@ Windows · 中文 / English / 日本語 · WorkBuddy / Codex / Claude Desktop
 
 独立客户 Windows、三个真实 AI 客户端的完整操作以及复杂工程求解正在收集体验证据。本机空模型测试覆盖启动链路。欢迎反馈你的实际环境和任务结果，帮助我们确定适用范围。[查看版本说明](docs/changelog.md)。
 
-反馈建议包含软件/Windows/Marc/AI 客户端版本、操作步骤、期望结果和实际结果。先查看导出的诊断并脱敏，再提交 [Issue](https://github.com/WangJ226/Marc-MCP-Assistant/issues)。授权码、个人信息和工程文件通过约定的私人渠道处理。
+反馈建议包含软件/Windows/Marc/AI 客户端版本、操作步骤、期望结果和实际结果。先查看导出的诊断并脱敏，再提交 [Issue](https://github.com/WangJ226/MSC-Marc-Control-MCP/issues)。授权码、个人信息和工程文件通过约定的私人渠道处理。
 
 本仓库公开产品文档和发行入口，应用源码由开发项目私有维护。如果这些场景与你的工作相关，欢迎 Star、分享给同事，或带着一个小任务参与体验。

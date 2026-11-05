@@ -1,10 +1,12 @@
-![Marc Control MCP](assets/banner.svg)
+![MSC Marc Control MCP](assets/banner.svg)
 
-# Marc Control MCP 1.3.2
+# MSC Marc Control MCP 1.3.2
+
+**Download status:** The 1.3.2 installer is not publicly uploaded yet. It will be published after further development and validation.
 
 **Connect your AI assistant to local Marc/Mentat: inspect inputs, carry out reviewed model operations, and organize solver results.**
 
-[详细中文介绍](README.zh-CN.md) · [日本語](README.ja.md) · [Downloads](https://github.com/WangJ226/Marc-MCP-Assistant/releases) · [Getting started](docs/trial-install.md) · [FAQ](docs/faq.md)
+[详细中文介绍](README.zh-CN.md) · [日本語](README.ja.md) · [Downloads](https://github.com/WangJ226/MSC-Marc-Control-MCP/releases) · [Getting started](docs/trial-install.md) · [FAQ](docs/faq.md)
 
 **174 tool entries · Three interface languages · Bundled MCP Python · User-approved execution**
 
@@ -26,7 +28,7 @@ The application inherits 174 tool entries from its V2.16 baseline. Inputs, outpu
 
 ## Start with one small task
 
-1. Check [Releases](https://github.com/WangJ226/Marc-MCP-Assistant/releases) for available installers. While the public list is empty, [contact the maintainer](docs/contact.md) for access arrangements.
+1. Check [Releases](https://github.com/WangJ226/MSC-Marc-Control-MCP/releases) for available installers. While the public list is empty, [contact the maintainer](docs/contact.md) for access arrangements.
 2. Install the EXE and activate with the supplied code. Access follows the issued authorization; experience requests are reviewed manually.
 3. Detect Marc, confirm the selected installation and run the environment check.
 4. Connect WorkBuddy, Codex or Claude Desktop, reload it and confirm trust.
@@ -43,6 +45,6 @@ Models and results stay in local project storage. Content shared with your AI cl
 
 ## Help shape the next iteration
 
-Share your version combination, task, steps and expected/actual result through [Issues](https://github.com/WangJ226/Marc-MCP-Assistant/issues). Review and sanitize diagnostic files first; keep codes, account details and private models out of public reports. A Star or a shared small-task experience helps others discover the project.
+Share your version combination, task, steps and expected/actual result through [Issues](https://github.com/WangJ226/MSC-Marc-Control-MCP/issues). Review and sanitize diagnostic files first; keep codes, account details and private models out of public reports. A Star or a shared small-task experience helps others discover the project.
 
 This repository contains public documentation and release links. Application source is privately maintained.

@@ -1,6 +1,6 @@
 ---
 name: Public question
-about: Ask a general question about Marc Control MCP
+about: Ask a general question about MSC Marc Control MCP
 title: "[Question] "
 labels: ""
 assignees: ""

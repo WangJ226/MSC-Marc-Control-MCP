@@ -1,8 +1,10 @@
-# Marc Control MCP 1.3.2
+# MSC Marc Control MCP 1.3.2
+
+**配布状況：1.3.2 のインストーラーは現在未公開です。開発と検証を進めた後に公開します。**
 
 **AI アシスタントをローカルの Marc/Mentat に接続し、入力確認・モデル操作・結果整理を支援します。**
 
-[中文](README.zh-CN.md) · [English](README.md) · [ダウンロード](https://github.com/WangJ226/Marc-MCP-Assistant/releases) · [導入手順](docs/trial-ja.md)
+[中文](README.zh-CN.md) · [English](README.md) · [ダウンロード](https://github.com/WangJ226/MSC-Marc-Control-MCP/releases) · [導入手順](docs/trial-ja.md)
 
 Marc を利用する研究者・学生・技術者向けの Windows アプリです。WorkBuddy、Codex、Claude Desktop から MCP ツールを呼び出し、実際の結果を確認できます。
 

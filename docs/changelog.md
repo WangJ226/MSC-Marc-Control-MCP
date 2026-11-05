@@ -1,6 +1,6 @@
-# Marc Control MCP 1.3.2 — 版本说明
+# MSC Marc Control MCP 1.3.2 — 版本说明
 
-2026-11-05。完整 Windows 安装包，中文、英文、日文界面，连接 WorkBuddy、Codex 与 Claude Desktop。
+2026-11-05。1.3.2 安装包按维护者安排暂缓公开上传，完善和验证后发布。完整 Windows 安装包，中文、英文、日文界面，连接 WorkBuddy、Codex 与 Claude Desktop。
 
 ## 本版重点
 - 提供诊断导出，便于定位安装与环境问题。
@@ -17,6 +17,6 @@
 独立客户 Windows、真实 AI 客户端完整操作与复杂工程求解继续收集证据。共享服务测试有3项既有配额断言差异，在原服务对照同样复现，独立于上述296项外部产品测试。
 
 ## 获取与使用
-[发行下载入口](https://github.com/WangJ226/Marc-MCP-Assistant/releases)。当前公开 Release 列表为空，体验包由提供方安排。安装前准备 Marc/Mentat 有效许可证和 AI 客户端；MCP Python 随包提供。升级前关闭 AI 连接并选择原目录。
+[发行下载入口](https://github.com/WangJ226/MSC-Marc-Control-MCP/releases)。当前公开 Release 列表为空，体验包由提供方安排。安装前准备 Marc/Mentat 有效许可证和 AI 客户端；MCP Python 随包提供。升级前关闭 AI 连接并选择原目录。
 
 欢迎提交脱敏的版本组合、步骤与结果，帮助完善环境适配。应用源码由开发项目私有维护。
