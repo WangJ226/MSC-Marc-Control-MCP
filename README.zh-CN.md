@@ -1,4 +1,4 @@
-![MSC Marc Control MCP](assets/banner.svg)
+![MSC Marc Control MCP](assets/msc-marc-banner.svg)
 
 # MSC Marc Control MCP 1.3.2
 
