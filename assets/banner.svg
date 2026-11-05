@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+<title id="t">Marc Control MCP</title><desc id="d">Model checks, reviewed execution, result extraction. Workflow illustration.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e35"/><stop offset="1" stop-color="#143b48"/></linearGradient></defs>
+<rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+<g font-family="Segoe UI,Microsoft YaHei,Noto Sans CJK SC,sans-serif">
+<text x="48" y="60" fill="#66dcc9" font-size="16" letter-spacing="3">MARC × AI</text>
+<text x="48" y="127" fill="white" font-size="49" font-weight="700">Marc Control MCP</text>
+<text x="48" y="181" fill="#b7edeb" font-size="29">让 AI 接入你的 Marc 工作流</text>
+<text x="48" y="224" fill="#c4d3e2" font-size="20">模型检查 · 分析执行 · 结果提取</text>
+<text x="48" y="265" fill="#a8bfd1" font-size="17">WorkBuddy / Codex / Claude Desktop</text>
+<rect x="48" y="305" width="560" height="51" rx="12" fill="#24465a"/>
+<text x="68" y="338" fill="#e6fbff" font-size="19">174 tools · 中文 / EN / 日本語 · Windows</text>
+<rect x="710" y="42" width="440" height="314" rx="18" fill="#0f2435" stroke="#3b6074"/>
+<text x="740" y="78" fill="#9fbcd0" font-size="14">YOUR MODEL → YOUR RESULTS</text>
+<g fill="none" stroke="#326980" stroke-width="1.4"><path d="M746 132L930 104L1107 165L922 194Z M746 132V218L922 280L1107 245V165 M922 194V280 M792 125V234 M838 118V249 M884 111V265 M968 187V271 M1014 180V263 M1060 173V254 M746 161L922 223L1107 191 M746 190L922 252L1107 218"/></g>
+<path d="M750 305C799 303 812 283 849 292S904 267 939 271S990 248 1019 244S1065 228 1106 203" fill="none" stroke="#5fe2c9" stroke-width="4" stroke-linecap="round"/>
+<text x="740" y="334" fill="#93afc4" font-size="12">功能示意 · 实际输出依任务与模型而定</text>
+</g></svg>
