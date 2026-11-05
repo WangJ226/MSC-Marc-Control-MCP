@@ -1,5 +1,5 @@
-# 发行包
+# 配布文件
 
-Personal 1.2.2 在线候选已完成 HTTPS 授权及实际 EXE 协议验收，正在准备真实 AI 客户端验收。客户包包含运行环境和 MCP 功能；经营者管理程序单独保存。公开发行只包含审核后的客户 EXE。
+当前开发交付版本为 Marc Control MCP 1.3.2。客户安装包包含 MCP 运行环境和功能；经营者工具独立保管。公开展示仓库包含文档，应用源码私有维护。
 
-[返回产品说明](../README.zh-CN.md)
+[下载入口](https://github.com/WangJ226/Marc-MCP-Assistant/releases) · [版本说明与实际测试范围](changelog.md)。公开列表为空时联系提供方安排体验。
